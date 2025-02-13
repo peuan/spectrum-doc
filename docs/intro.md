@@ -3,46 +3,31 @@ sidebar_position: 1
 slug: /
 ---
 
-# Tutorial Intro
+# Welcome to Spectrum Live
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Spectrum Live is a cutting-edge platform designed to **empower streamers** with seamless, secure, and efficient donation management. Using blockchain technology, we ensure that streamers receive support from their fans **instantly and securely**, without the hassle of traditional payment systems.
 
-## Getting Started
+## Why Choose Spectrum Live?
 
-Get started by **creating a new site**.
+### 🚀 Super Quick Setup  
+Get started with donations in just a few minutes, thanks to our **fast and hassle-free** setup process.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### 🔧 Premium Hardware  
+We use **cutting-edge, reliable systems** to provide a seamless experience for you and your supporters.
 
-### What you'll need
+### 🛡️ DDoS Protection  
+Security is our top priority. With **advanced cyber attack protection**, your donation system remains safe and operational at all times.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### 💬 Fast Support  
+Our dedicated team is always available to assist you, ensuring that you can **focus on streaming** without any worries.
 
-## Generate a new site
+## How It Works
 
-Generate a new Docusaurus site using the **classic template**.
+1. **Sign Up & Set Up** – Create your Spectrum Live account and configure your donation preferences.  
+2. **Share Your Link** – Provide your unique donation link to your audience.  
+3. **Receive Secure Donations** – Fans can support you instantly using blockchain technology.  
+4. **Enjoy Hassle-Free Streaming** – No delays, no middlemen—just direct support from your community.
 
-The classic template will automatically be added to your project after you run the command:
+Spectrum Live is designed for **high-demand streaming**, ensuring that you **never experience interruptions** while engaging with your audience.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+[Get Started Now](https://beta.spectrumlive.xyz/)
