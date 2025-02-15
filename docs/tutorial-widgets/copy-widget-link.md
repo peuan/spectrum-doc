@@ -19,7 +19,7 @@ Widgets in **Spectrum Live** allow streamers to display donation alerts during l
 
 ---
 
-## 📌 Step 2: Add the Widget to OBS Studio
+## 📌 Add the Widget to OBS Studio
 
 1. **Open OBS Studio**.
 2. In the **Sources** panel, click the ➕ **Add Source** button.
@@ -32,7 +32,7 @@ Widgets in **Spectrum Live** allow streamers to display donation alerts during l
 
 ---
 
-## 📌 Step 3: Add the Widget to Streamlabs
+## 📌 Add the Widget to Streamlabs
 
 1. **Open Streamlabs** and go to the **Editor** tab.
 2. Click the ➕ **Add Source** button and select **Browser Source**.
