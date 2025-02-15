@@ -12,7 +12,7 @@ Support your favorite streamers using **Credit** on **Spectrum Live**. Follow th
 
 ## 📌 Step 1: Log In
 
-Go to the **Spectrum Live** platform and **log in** to your account.
+Go to the **Spectrum Live** platform and [log in](/tutorial-logins/google) to your account.
 
 ---
 
