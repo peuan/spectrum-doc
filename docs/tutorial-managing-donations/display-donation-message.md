@@ -6,6 +6,8 @@ sidebar_position: 6
 
 Streamers on **Spectrum Live** can easily manage and display donation messages using the dashboard. Here's how:
 
+![Display Undisplayed Donation](./img/displayUndisplayedDonation.png)
+
 ---
 
 ## 📌 Step 1: Access Your Dashboard
