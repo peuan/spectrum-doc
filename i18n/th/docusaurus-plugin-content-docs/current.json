@@ -1,18 +1,58 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "ถัดไป",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Tutorial - Basics": {
-    "message": "Tutorial - Basics",
+    "message": "บทแนะนำ - พื้นฐาน",
     "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
-    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "message": "5 นาทีเพื่อเรียนรู้แนวคิดสำคัญของ Docusaurus",
     "description": "The generated-index page description for category Tutorial - Basics in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Tutorial - Extras": {
-    "message": "Tutorial - Extras",
+    "message": "บทแนะนำ - เพิ่มเติม",
     "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Login": {
+    "message": "เข้าสู่ระบบ",
+    "description": "The label for category Login in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Login.link.generated-index.description": {
+    "message": "1 นาทีเพื่อเข้าสู่ระบบ Spectrum Live",
+    "description": "The generated-index page description for category Login in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Donates": {
+    "message": "โดเนท",
+    "description": "The label for category Donates in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Widgets": {
+    "message": "วิดเจ็ต",
+    "description": "The label for category Widgets in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Widgets.link.generated-index.description": {
+    "message": "วิธีการตั้งค่าวิดเจ็ต",
+    "description": "The generated-index page description for category Widgets in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Managing Donations": {
+    "message": "การจัดการโดเนท",
+    "description": "The label for category Managing Donations in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Payments": {
+    "message": "การชำระเงิน",
+    "description": "The label for category Payments in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Payments.link.generated-index.description": {
+    "message": "วิธีการตั้งค่าการชำระเงิน",
+    "description": "The generated-index page description for category Payments in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Donation Page": {
+    "message": "หน้าโดเนท",
+    "description": "The label for category Donation Page in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Donation Page.link.generated-index.description": {
+    "message": "วิธีการตั้งค่าหน้าโดเนท",
+    "description": "The generated-index page description for category Donation Page in sidebar tutorialSidebar"
   }
 }
