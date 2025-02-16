@@ -1,18 +1,18 @@
 {
   "link.title.Docs": {
-    "message": "Docs",
+    "message": "เอกสาร",
     "description": "The title of the footer links column with title=Docs in the footer"
   },
   "link.title.Community": {
-    "message": "Community",
+    "message": "ชุมชน",
     "description": "The title of the footer links column with title=Community in the footer"
   },
   "link.title.More": {
-    "message": "More",
+    "message": "เพิ่มเติม",
     "description": "The title of the footer links column with title=More in the footer"
   },
   "link.item.label.Tutorial": {
-    "message": "Tutorial",
+    "message": "บทแนะนำ",
     "description": "The label of footer link with label=Tutorial linking to /docs/intro"
   },
   "link.item.label.Stack Overflow": {
@@ -28,7 +28,7 @@
     "description": "The label of footer link with label=X linking to https://x.com/docusaurus"
   },
   "link.item.label.Blog": {
-    "message": "Blog",
+    "message": "บล็อก",
     "description": "The label of footer link with label=Blog linking to /blog"
   },
   "link.item.label.GitHub": {
@@ -36,11 +36,11 @@
     "description": "The label of footer link with label=GitHub linking to https://github.com/facebook/docusaurus"
   },
   "copyright": {
-    "message": "Copyright © 2025 My Project, Inc. Built with Docusaurus.",
+    "message": "สงวนลิขสิทธิ์ © 2025 My Project, Inc. สร้างด้วย Docusaurus.",
     "description": "The footer copyright"
   },
   "link.title.Website": {
-    "message": "Website",
+    "message": "เว็บไซต์",
     "description": "The title of the footer links column with title=Website in the footer"
   },
   "link.item.label.Spectrum Live": {
