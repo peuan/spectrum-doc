@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  docusaurus:
+    build: .
+    container_name: docusaurus_server
+    ports:
+      - "3002:80" # Run Docusaurus on port 3002 inside the container
+    restart: always
